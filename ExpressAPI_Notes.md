@@ -1,6 +1,7 @@
 # Making an endpoint in Express
 
 ## Reference of instructor Connors' GitHub file: https://github.com/simratbains-223/module-4-express-api-personal/blob/master/index.cjs#L28
+## Reference to API website from class lecture: https://the-one-api.dev/documentation
 
 
 ### The Process
